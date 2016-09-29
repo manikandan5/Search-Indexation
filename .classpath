@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/analysis/common/lucene-analyzers-common-6.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/core/lucene-core-6.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/benchmark/lucene-benchmark-6.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/benchmark/lib/commons-compress-1.11.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/benchmark/lib/icu4j-56.1.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/benchmark/lib/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/benchmark/lib/spatial4j-0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/benchmark/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/murugesm/Sem 3/Search/lucene-6.2.1/queryparser/lucene-queryparser-6.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
